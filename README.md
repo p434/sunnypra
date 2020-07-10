@@ -1,2 +1,0 @@
-# sunnypra
-Please follow me
