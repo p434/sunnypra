@@ -3,5 +3,14 @@ h1 {
 }
 
 button {
-  color: #14CF26;
+  color: #020419;
+}
+
+.success {
+  background-color: #4CAF50;
+}
+
+/* Green */
+.success:hover {
+  background-color: #46a049;
 }
